@@ -1,1 +1,0 @@
-# transfer-learning-based-classification-of-poultry-diseases-for-enhanced-health
