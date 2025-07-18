@@ -127,7 +127,7 @@ Classification-of-Poultry-Diseases/
 
 A full academic‑style project report is available in PDF and DOCX formats:
 
-* **PDF:** [Durgesh\_Project\_Report.pdf](/Durgesh_Project_Report.pdf)
+* **PDF:** [Lavanya\_Project\_Report.pdf](/Lavanya_Project_Report.pdf)
 
 ---
 
